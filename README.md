@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aleksandra Andreeva
 - 👀 I’m interested in IT and design
-- 🌱 I’m currently studying the QA
+- 🌱 I’m currently studying the QA-Automation
 - 📫 How to reach me - via Slack
 
 <!---
